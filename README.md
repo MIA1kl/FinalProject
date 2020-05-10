@@ -20,7 +20,7 @@ This game allows the player to get rid of boredom and get involved in the game, 
 
 ## Objectives of the project (why)
 
-During writing the code, I did many research in the internet. I found out how to install and use javafx, how to work with 3 dimentional array, how to import images,how to use so many methods and classes in one project how to create buttons and timer (which I didn't use in this project).
+During writing the code, I did many research in the internet. I found out how to install and use javafx, how to work with 3 dimentional array, how to import images,how to use so many methods and classes in one project how to create buttons and timer.
 
 ## Expected outcomes
 
@@ -79,6 +79,11 @@ Here we can see libraries for javafx, JFrame- the window, and the vatiables for 
 
 b) Text I/O - We must work with files as a database (read from files, write to files)
 
+![2020-05-10_17-29-09](https://user-images.githubusercontent.com/60422598/81498005-1e7e1680-92e4-11ea-97e0-0b35cd4026bf.png)
 
- 
+There I have impoted the image for surprizing the person after gaming.
+
+c) Exceptions - You must handle exceptions using Try-Catch blocks
+
+
 
