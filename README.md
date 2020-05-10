@@ -73,6 +73,12 @@ After finishing the game picture below occurs:
 
 a)  GUI - We must create Graphical User Interface Application:
 
+![2020-05-10_17-22-51](https://user-images.githubusercontent.com/60422598/81497871-2db09480-92e3-11ea-98f5-4efcd6b88010.png)
+
+Here we can see libraries for javafx, JFrame- the window, and the vatiables for JFrame.
+
+b) Text I/O - We must work with files as a database (read from files, write to files)
+
 
  
 
