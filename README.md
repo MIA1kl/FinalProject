@@ -90,3 +90,9 @@ There I have impoted the image for surprizing the person after gaming.
 In the most important method of this project, there is Try-Catch block which helps us to controll the speed od falling blocks.
 
 ## d) Classes - We must work with classes creating objects
+
+![2020-05-10_17-45-35](https://user-images.githubusercontent.com/60422598/81498372-5e45fd80-92e6-11ea-8539-69967966fd73.png)
+![2020-05-10_17-44-58](https://user-images.githubusercontent.com/60422598/81498375-643bde80-92e6-11ea-84b0-53bf675845c0.png)
+![2020-05-10_17-45-35](https://user-images.githubusercontent.com/60422598/81498376-6605a200-92e6-11ea-8fe6-42be55e6163d.png)
+![2020-05-10_17-45-58](https://user-images.githubusercontent.com/60422598/81498377-6867fc00-92e6-11ea-81e7-6a02342827af.png)
+![2020-05-10_17-46-41](https://user-images.githubusercontent.com/60422598/81498379-6a31bf80-92e6-11ea-940d-5241f4440340.png)
