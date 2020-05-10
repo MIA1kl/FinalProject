@@ -69,21 +69,24 @@ After finishing the game picture below occurs:
 
 ![2020-05-10_15-20-14](https://user-images.githubusercontent.com/60422598/81496121-06ec6100-92d7-11ea-999a-b4f4befc2b20.png)
 
-## Compulsory requirements:
+# Compulsory requirements:
 
-a)  GUI - We must create Graphical User Interface Application:
+## a)  GUI - We must create Graphical User Interface Application:
 
 ![2020-05-10_17-22-51](https://user-images.githubusercontent.com/60422598/81497871-2db09480-92e3-11ea-98f5-4efcd6b88010.png)
 
 Here we can see libraries for javafx, JFrame- the window, and the vatiables for JFrame.
 
-b) Text I/O - We must work with files as a database (read from files, write to files)
+## b) Text I/O - We must work with files as a database (read from files, write to files)
 
 ![2020-05-10_17-29-09](https://user-images.githubusercontent.com/60422598/81498005-1e7e1680-92e4-11ea-97e0-0b35cd4026bf.png)
 
 There I have impoted the image for surprizing the person after gaming.
 
-c) Exceptions - You must handle exceptions using Try-Catch blocks
+## c) Exceptions - We must handle exceptions using Try-Catch blocks
 
+![2020-05-10_17-37-08](https://user-images.githubusercontent.com/60422598/81498147-0bb81180-92e5-11ea-949c-5725ba559f7a.png)
 
+In the most important method of this project, there is Try-Catch block which helps us to controll the speed od falling blocks.
 
+## d) Classes - We must work with classes creating objects
