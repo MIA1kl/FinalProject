@@ -16,27 +16,40 @@ This is my first java project, so I did not take very complicated ideas for impl
 
 ## Aim of the project (what)
 
-This game allows the player to get rid of boredom and get involved in the game, but the main goal of this project was to acquire new knowledge in compiling code, repeat the topics of inheritance and learn how to use GUI.
+This game allows the player to get rid of boredom and get involved in the game, but the main goal of this project was to acquire new knowledge in compiling code, repeat the topics of inheritance and learn how to use GUI, work with OOP.
 
 ## Objectives of the project (why)
 
-During writing the code, I did many research in the iternet. I found out how to install and use javafx, how to work with 3 dimentional array, how to import images, how to create buttons and timer (which I didn't use in this project).
+During writing the code, I did many research in the internet. I found out how to install and use javafx, how to work with 3 dimentional array, how to import images,how to use so many methods and classes in one project how to create buttons and timer (which I didn't use in this project).
 
-## Compatibility
+## Expected outcomes
 
-[A discussion of the change with regard to the
-[compatibility guidelines](https://golang.org/doc/go1compat).]
+Good Emotions
 
-## Implementation
+## Proposed activities
 
-[A description of the steps in the implementation, who will do them, and when.
-This should include a discussion of how the work fits into [Go's release cycle](https://golang.org/wiki/Go-Release-Cycle).]
+Update codes and make a good presentation. 
 
-## Open issues (if applicable)
+## Estimative budget)
 
-[A discussion of issues relating to this proposal for which the author does not
-know the solution. This section may be omitted if there are none.]
+Free
 
+## Proposed partners
+
+Nobody
+
+## Git repository link
+
+https://github.com/MIA1kl/FinalProject
+
+## Contact person
+Name      :Natalia;
+
+Surname   :Klimareva; 
+
+email     :natalia.klimareva@iaau.edu.kg ;
+
+mobile    : +996773865939 ;
 
 
 # FinalProject
