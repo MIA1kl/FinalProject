@@ -68,5 +68,11 @@ When bloch touch the top of the window, the game is ended.
 After finishing the game picture below occurs:
 
 ![2020-05-10_15-20-14](https://user-images.githubusercontent.com/60422598/81496121-06ec6100-92d7-11ea-999a-b4f4befc2b20.png)
+
+## Compulsory requirements:
+
+a)  GUI - We must create Graphical User Interface Application:
+
+
  
 
