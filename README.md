@@ -16,11 +16,11 @@ This is my first java project, so I did not take very complicated ideas for impl
 
 ## Aim of the project (what)
 
-This game allows the player to get rid of boredom and get involved in the game. The main goal of this project was to acquire new knowledge in compiling code, repeat the topics of inheritance and learn how to use gui 
+This game allows the player to get rid of boredom and get involved in the game, but the main goal of this project was to acquire new knowledge in compiling code, repeat the topics of inheritance and learn how to use GUI.
 
 ## Objectives of the project (why)
 
-
+During writing the code, I did many research in the iternet. I found out how to install and use javafx, how to work with 3 dimentional array, how to import images, how to create buttons and timer (which I didn't use in this project).
 
 ## Compatibility
 
