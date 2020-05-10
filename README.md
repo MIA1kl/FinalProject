@@ -2,26 +2,25 @@
 
 # Proposal: [Tetris Game for Final Exam]
 
-Author: [Natalia Klimareva COM19-A]
+Author: Natalia Klimareva COM19-A
 
-Last updated: [10.05.2020]
+Last updated: 10.05.2020
 
 ## Topic addressed by the project
 
-[Games and Entertainment]
+Games and Entertainment
 
 ## Background
 
-[This is my first java project, so I did not take very complicated ideas for implementation. I also loved the game of Tetris from childhood. Therefore, I was always interested in how it is created.
-This game allows the player to get rid of boredom and get involved in the game]
+This is my first java project, so I did not take very complicated ideas for implementation. I also loved the game of Tetris from childhood. Therefore, I was always interested in how it is created.
 
-## Proposal
+## Aim of the project (what)
 
-[A precise statement of the proposed change.]
+This game allows the player to get rid of boredom and get involved in the game. The main goal of this project was to acquire new knowledge in compiling code, repeat the topics of inheritance and learn how to use gui 
 
-## Rationale
+## Objectives of the project (why)
 
-[A discussion of alternate approaches and the trade offs, advantages, and disadvantages of the specified approach.]
+
 
 ## Compatibility
 
